@@ -44,7 +44,7 @@ body a {
 }
 
 body a:hover {
-  cursor: pointer;
+  cursor: url("cursor_hover.png"), auto;
 }
 
 body img {
@@ -137,13 +137,13 @@ main header nav p a {
   text-decoration: none;
   -webkit-transition: 0.2s;
   transition: 0.2s;
-  cursor: pointer;
+  cursor: url("cursor_hover.png"), auto;
 }
 
 main header nav p a img {
   height: 18px;
   width: auto;
-  cursor: pointer;
+  cursor: url("cursor_hover.png"), auto;
 }
 
 @media screen and (max-width: 600px) {
@@ -315,7 +315,7 @@ main section #item_list .item .thumbnail {
 }
 
 main section #item_list .item:hover {
-  cursor: pointer;
+  cursor: url("cursor_hover.png"), auto;
   color: white;
   border-color: white;
 }
@@ -865,7 +865,7 @@ main section footer p a:hover {
   font-size: 15px;
   -webkit-transition: all .2s ease;
   transition: all .2s ease;
-  cursor: pointer;
+  cursor: url("cursor_hover.png"), auto;
   color: black;
 }
 
