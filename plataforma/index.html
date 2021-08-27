@@ -4,17 +4,8 @@
     <meta charset="utf-8">
     <title>LA MAGA || Edit Platform</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Diogo Lourenço (OI) Design Portfolio">
     <meta name="author" content="handcoded by: Diogo Lourenço (OI) — @oi.design.di">
-    <meta name="robots" content="index, follow">
-    <meta name="keywords" content="Oi, Design, fbaul, belas-artes, dc, finearts, Diogo Lourenço, Diogo, oi.design.di">
     <meta name="google" content="notranslate">
-    <meta name="google-site-verification" content="uUjJCRImpRhggCsndSIReUxXPIaEQ_M4qy4f6fBPJFg" />
-
-    <meta property="og:image" content="https://oi-oi.work/img/og_image.jpg">
-    <meta property="og:image:type" content="image/jpg">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="627">
 
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -118,14 +109,19 @@
         <h3>Texto <sup>(text)</sup></h3>
         <p>→ Recomendado</p>
         <p><b>Usage:</b> Começar sempre o texto com P ou H2. Atenção, o texto por default está justificado ao centro.
-            Ter também atenção ao copiar textos de outros editores de texto como GoogleDocs, Pages ou Word pois estes
-            podem já vir estilizados.
+            Ter também atenção ao copiar textos de outros sítios pois estes podem já vir estilizados. (Tip: Se colarem
+            texto na barra de URL do browser o texto perde toda a formatação.)
+        </p>
+        <p>
+            Caso queiram usar aspas usar estas (“ ”) (’) ou estas (« »). Para mais caractéres especiais <a
+                href="https://coolsymbol.com/" target="_blank">aqui</a>.
         </p>
         <ul>
             <li>p: Paragrafo</li>
             <li>h2: Subtitulo</li>
         </ul>
         <p>(caso seja necessário podem aumentar a área de escrita)</p>
+
         <div id='header'>
             <div id='editControls'>
                 <div id='menu_controls'>
@@ -141,7 +137,6 @@
                     <a data-role='outdent' href='javascript:void(0)'><i class='fa fa-outdent'></i></a>
                     <a data-role='insertUnorderedList' href='javascript:void(0)'><i class='fa fa-list-ul'></i></a>
                     <a data-role='insertOrderedList' href='javascript:void(0)'><i class='fa fa-list-ol'></i></a>
-
                     <a data-role='h2' href='javascript:void(0)'>h<sup>2</sup></a>
                     <a data-role='p' href='javascript:void(0)'>p</a>
                     <a data-role='subscript' href='javascript:void(0)'><i class='fa fa-subscript'></i></a>
@@ -154,10 +149,8 @@
                     <textarea id='output'></textarea>
                 </div>
             </div>
-            <!-- partial -->
-            <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-            <script src='https://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js'></script>
-            <script src="./script.js"></script>
+
+            <script src="editor.js"></script>
         </div>
     </section>
 
@@ -236,7 +229,10 @@
         <p>8. Está feito. Ter atenção que o site demora alguns minutos a atualizar, recomendo fazerem hard refresh da
             página para irem verificando. (Windows: Ctrl + F5 / Mac: Cmnd + F5). Caso não apareça ou dê erro confirmar
             se todas as indicações foram seguidas (especialmente Usage notes das Datas).</p>
-        <p>9. Caso haja imagens, colocar todas na pasta <i>Content</i>, bem optimizadas para Web, comprimir e evitar exceder os 100kb e 1080px por imagem e 1080px do maior comprimento. Comprimir imagens é crucial para que o site carrege smoothly. (Para comprimir imagens recomendo utilizar https://squoosh.app/ ou https://tinypng.com/)</p>
+        <p>9. Caso haja imagens, colocar todas na pasta <i>Content</i>, bem optimizadas para Web, comprimir e evitar
+            exceder os 100kb e 1080px por imagem e 1080px do maior comprimento. Comprimir imagens é crucial para que o
+            site carrege smoothly. (Para comprimir imagens recomendo utilizar https://squoosh.app/ ou
+            https://tinypng.com/)</p>
         <hr>
         <p>10. Caso queiram apagar um projeto basta ir ao ficheiro, selecionar e apagar, mas ter atenção ao conteúdo a
             ser apagado.</p>
