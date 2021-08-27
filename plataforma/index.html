@@ -1,0 +1,251 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>LA MAGA || Edit Platform</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Diogo Lourenço (OI) Design Portfolio">
+    <meta name="author" content="handcoded by: Diogo Lourenço (OI) — @oi.design.di">
+    <meta name="robots" content="index, follow">
+    <meta name="keywords" content="Oi, Design, fbaul, belas-artes, dc, finearts, Diogo Lourenço, Diogo, oi.design.di">
+    <meta name="google" content="notranslate">
+    <meta name="google-site-verification" content="uUjJCRImpRhggCsndSIReUxXPIaEQ_M4qy4f6fBPJFg" />
+
+    <meta property="og:image" content="https://oi-oi.work/img/og_image.jpg">
+    <meta property="og:image:type" content="image/jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="627">
+
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+
+    <link rel='stylesheet' href='https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css'>
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+
+    <link rel="stylesheet" href="platform.css">
+
+
+</head>
+
+
+<body>
+    <h1>LA MAGA FACTORY</h1>
+
+    <p><i>Em código começa-se a contar do 0.</i></p>
+
+    <section class='input_sec'>
+        <h3>Título Completo <sup>(title_full)</sup></h3>
+        <p>→ Obrigatório ⚠️</p>
+        <input id="title_full"></input>
+    </section>
+
+    <section class='input_sec'>
+        <h3>Título Menu <sup>(title_home)</sup></h3>
+        <p>→ Opcional</p>
+        <p><b>Usage:</b> Caso um título seja muito comprido para aparecer por inteiro na homepage será substituído por
+            este.
+        </p>
+        <input id="title_home"></input>
+    </section>
+
+    <section class='input_sec'>
+        <h3>Subtítulo <sup>(subtitle)</sup></h3>
+        <p>→ Opcional</p>
+        <input id="subtitle"></input>
+    </section>
+
+    <section class='input_sec'>
+        <h3>Autor(es) <sup>(author)</sup></h3>
+        <p>→ Obrigatório ⚠️</p>
+        <input id="author"></input>
+    </section>
+
+    <section class='input_sec'>
+        <h3>Tipologia <sup>(type)</sup></h3>
+        <p>→ Obrigatório ⚠️</p>
+        <p><b>Usage:</b> Expecificar o tipo de categoria (ex: Artigo, Comentário, Comunicado, Exposição, etc...
+            Definições ao vosso critério.)</p>
+
+        <input id="type"></input>
+    </section>
+
+    <section class='input_sec'>
+        <h3>Data <sup>(date)</sup></h3>
+        <p>→ Obrigatório ⚠️</p>
+        <p><b>Usage:</b> Utilizar formato "MONTH DAY, YEAR HH:MM:SS" e escrever sempre em Inglês (ex: April 5, 2021
+            00:00:00).
+            Os projetos só estaram disponíveis no website a partir da data estipulada. Durante as duas primeiras semanas
+            do lançamentos dos projetos, eses teram uma tag de "NEW!". Caso não seja alterada a data fica com a data que
+            já está preenchida.
+        </p>
+
+        <input id="date"></input>
+    </section>
+
+    <section class='input_sec'>
+        <h3>Tags <sup>(tags)</sup></h3>
+        <p>→ Recomendado</p>
+        <p><b>Usage:</b> Keywords extra que o motor de busca utiliza para filtrar as pesquisas. As Tags nunca estam
+            visíveis no site, apenas no código.
+        </p>
+
+        <div id='tag'>
+            <button id='add_tag' class='button'>add</button>
+            <button id='remove_tag' alt='tag' class='button'>remove last</button>
+        </div>
+    </section>
+
+    <section class='input_sec'>
+        <h3>Thumbnail <sup>(thumbnail)</sup></h3>
+        <p>→ Recomendado</p>
+        <p><b>Usage:</b> Imagem que aparece quando é feito hover num projeto. Caso nao haja imagem é substituida por uma
+            imagem
+            genérica (em baixo). Escrever o nome + extenção do ficheiro a utilizar (ex: imagem.jpg). Ficheiros
+            suportados: jpg,
+            png, svg, gif.
+        </p>
+        <img src="m_icon.svg">
+
+        <input id="thumbnail"></input>
+    </section>
+
+    <section class='input_sec'>
+
+        <h3>Texto <sup>(text)</sup></h3>
+        <p>→ Recomendado</p>
+        <p><b>Usage:</b> Começar sempre o texto com P ou H2. Atenção, o texto por default está justificado ao centro.
+            Ter também atenção ao copiar textos de outros editores de texto como GoogleDocs, Pages ou Word pois estes
+            podem já vir estilizados.
+        </p>
+        <ul>
+            <li>p: Paragrafo</li>
+            <li>h2: Subtitulo</li>
+        </ul>
+        <p>(caso seja necessário podem aumentar a área de escrita)</p>
+        <div id='header'>
+            <div id='editControls'>
+                <div id='menu_controls'>
+                    <a data-role='undo' href='javascript:void(0)'><i class='fa fa-undo'></i></a>
+                    <a data-role='redo' href='javascript:void(0)'><i class='fa fa-repeat'></i></a>
+                    <a data-role='bold' href='javascript:void(0)'><i class='fa fa-bold'></i></a>
+                    <a data-role='italic' href='javascript:void(0)'><i class='fa fa-italic'></i></a>
+                    <a data-role='underline' href='javascript:void(0)'><i class='fa fa-underline'></i></a>
+                    <a data-role='strikeThrough' href='javascript:void(0)'><i class='fa fa-strikethrough'></i></a>
+                    <a data-role='justifyLeft' href='javascript:void(0)'><i class='fa fa-align-left'></i></a>
+                    <a data-role='justifyCenter' href='javascript:void(0)'><i class='fa fa-align-center'></i></a>
+                    <a data-role='indent' href='javascript:void(0)'><i class='fa fa-indent'></i></a>
+                    <a data-role='outdent' href='javascript:void(0)'><i class='fa fa-outdent'></i></a>
+                    <a data-role='insertUnorderedList' href='javascript:void(0)'><i class='fa fa-list-ul'></i></a>
+                    <a data-role='insertOrderedList' href='javascript:void(0)'><i class='fa fa-list-ol'></i></a>
+
+                    <a data-role='h2' href='javascript:void(0)'>h<sup>2</sup></a>
+                    <a data-role='p' href='javascript:void(0)'>p</a>
+                    <a data-role='subscript' href='javascript:void(0)'><i class='fa fa-subscript'></i></a>
+                    <a data-role='superscript' href='javascript:void(0)'><i class='fa fa-superscript'></i></a>
+                </div>
+
+                <div id='wysiwyg'>
+                    <div id='editor' contenteditable>
+                    </div>
+                    <textarea id='output'></textarea>
+                </div>
+            </div>
+            <!-- partial -->
+            <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+            <script src='https://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js'></script>
+            <script src="./script.js"></script>
+        </div>
+    </section>
+
+    <section class='input_sec'>
+        <h3>Notas <sup>(notes)</sup></h3>
+        <p>→ Opcional</p>
+        <p><b>Usage:</b> Notas de rodapé no fim dos Textos. Estas já vêm numeradas (ex: 1. Sapo é uma designação
+            genérica de
+            anfíbios da ordem Anura predominantemente terrestres, com pele rugosa, e glândulas parotoides semelhantes a
+            verrugas.)</p>
+        <p>Resultado:</p>
+        <img src="img_notes.png">
+        <div id='notes'>
+            <button id='add_notes' class='button'>add</button>
+            <button id='remove_notes' class='button'>remove last</button>
+        </div>
+    </section>
+
+    <section class='input_sec'>
+        <h3>Colaborações <sup>(collab)</sup></h3>
+        <p>→ Opcional</p>
+        <p><b>Usage:</b> Atribuição de créditos a colaboradores. Aparece no fim dos dos projetos.</p>
+        <div id='collab'>
+            <button id='add_collab' class='button'>add</button>
+            <button id='remove_collab' class='button'>remove last</button>
+        </div>
+    </section>
+
+    <section class='input_sec'>
+        <h3>Imagens <sup>(images)</sup></h3>
+        <p>→ Opcional</p>
+        <p><b>Usage:</b> Imagens que aparecem nos projetos. Caso haja mais 1 imagem é criada uma galeria. Escrever o
+            nome +
+            extenção do ficheiro a utilizar (ex: imagem.jpg). Ficheiros suportados: jpg,
+            png, svg, gif. Caso haja mais que uma imagem nunca deixar um input vazio!</p>
+        <div id='image'>
+            <button id='add_image' class='button'>add</button>
+            <button id='remove_image' class='button'>remove last</button>
+        </div>
+    </section>
+
+    <section class='input_sec'>
+        <h3>Conteúdos Externos <sup>(misc)</sup></h3>
+        <p>→ Opcional</p>
+        <p><b>Usage:</b> Conteúdos de outros sites que queiram ser embebidos (ex: videos youtube/vimeo, músicas
+            soundloud).
+            Normalmente nas opçoes de partilha existe uma opção de "Embeb". Colar o código resultante.</p>
+        <img src="img_embeb.png">
+        <div id='misc'>
+            <button id='add_misc' class='button'>add</button>
+            <button id='remove_misc' class='button'>remove last</button>
+
+
+        </div>
+
+    </section>
+
+    <a href="" id="download" download="code.txt">Download 💾</a>
+
+    <hr>
+
+    <section class="input_sec">
+        <h3>Instruções</h3>
+
+        <p>1. Preencher com as informações desejadas.</p>
+        <p>2. Fazer Download do ficheiro.</p>
+        <p>3. Copiar todo o conteúdo do ficheiro txt.</p>
+        <p>4. Go to <a href="">HERE</a>. Ou manualmente à página do repositório <i>"lamaga_site"</i> na pasta
+            <i>Scripts</i> ao ficheiro <i>Data.js</i>.</p>
+        <p>5. Abrir o ficheiro <i>"data.js"</i> e clicar em editar.</p>
+        <img src="edit_file.png">
+        <p>6. Colar o texto do ficheiro txt em cima da linha que diz: <i>"// ░▒▓█ PASTE ABOVE HERE █▓▒░"</i></p>
+        <p>(Repetir as últimas duas ações por cada coisa a inserir no site)</p>
+        <p>7. Assim que terminado clicar em <i>"Commit Changes"</i></p>
+        <img src="commit_changes.png">
+        <p>8. Está feito. Ter atenção que o site demora alguns minutos a atualizar, recomendo fazerem hard refresh da
+            página para irem verificando. (Windows: Ctrl + F5 / Mac: Cmnd + F5). Caso não apareça ou dê erro confirmar
+            se todas as indicações foram seguidas (especialmente Usage notes das Datas).</p>
+        <p>9. Caso haja imagens, colocar todas na pasta <i>Content</i>, bem optimizadas para Web, comprimir e evitar exceder os 100kb e 1080px por imagem e 1080px do maior comprimento. Comprimir imagens é crucial para que o site carrege smoothly. (Para comprimir imagens recomendo utilizar https://squoosh.app/ ou https://tinypng.com/)</p>
+        <hr>
+        <p>10. Caso queiram apagar um projeto basta ir ao ficheiro, selecionar e apagar, mas ter atenção ao conteúdo a
+            ser apagado.</p>
+        <p>11. Os projetos aparecem no site pela ordem que aparecem no ficheiro ↥ (Em baixo 1º, em cima último). Caso
+            queiram trocar a ordem basta trocar no ficheiro, mas ter atenção.</p>
+        <p>12. Em caso de dúvida contactar @oi.design.di / skatelovver@gmail.com</p>
+    </section>
+</body>
+
+<script src="plataforma.js"></script>
+
+</html>

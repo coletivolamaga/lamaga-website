@@ -1,0 +1,69 @@
+#header {
+  position: relative;
+  display: flex;
+  width: 100%;
+  font-family: Arial, Helvetica, Geneva, sans-serif;
+  font-size: 14px;
+}
+
+#editControls {
+  width: 100%;
+  text-align: center;
+}
+
+#menu_controls{
+  margin: 20px 0;
+}
+
+#editFile {
+  width: 40%;
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+}
+
+#wysiwyg {
+  position: relative;
+  display: flex;
+  width: 100%;
+}
+
+#editor {
+  width: 60%;
+  resize: vertical;
+  overflow: auto;
+  border: 1px solid silver;
+  border-radius: 5px;
+  min-height: 400px;
+  box-shadow: inset 0 0 10px silver;
+  padding: 1em;
+}
+
+textarea#output {
+  width: 38%;
+  margin-left: 2%;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+a {
+  color: black;
+  padding: 5px;
+  border: 1px solid silver;
+  border-radius: 5px;
+  width: 1em;
+}
