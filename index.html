@@ -1,0 +1,125 @@
+<html lang=pt>
+
+<head>
+    <meta charset="utf-8">
+    <title>LA MAGA</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Diogo Lourenço (OI) Design Portfolio">
+    <meta name="author" content="handcoded by: Diogo Lourenço (OI) — @oi.design.di">
+    <meta name="robots" content="index, follow">
+    <meta name="keywords" content="Oi, Design, fbaul, belas-artes, dc, finearts, Diogo Lourenço, Diogo, oi.design.di">
+    <meta name="google" content="notranslate">
+    <meta name="google-site-verification" content="uUjJCRImpRhggCsndSIReUxXPIaEQ_M4qy4f6fBPJFg" />
+
+    <meta property="og:image" content="https://oi-oi.work/img/og_image.jpg">
+    <meta property="og:image:type" content="image/jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="627">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+    <link rel="manifest" href="favicon/site.webmanifest">
+    <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#e79500">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="theme-color" content="#000000">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+
+    <link rel="stylesheet" href="styles/index.css">
+
+
+
+
+
+</head>
+
+
+
+
+<body>
+
+
+    <img id='easter' src="content/egg.jpg">
+
+
+    <img id='logo' class="desktop" src="content/logo_big_cut.svg">
+    <img id='logo_mobile' class="mobile" src="content/logo_big_cut_phone.svg">
+
+    <main id='main'>
+
+        <header id='header'>
+            <div class="search" id='lupa'>
+                <input type="text" placeholder=" " id='filter' autocomplete="off">
+                <div>
+                    <svg>
+                        <use xlink:href="#path">
+                    </svg>
+                </div>
+            </div>
+            <div id='m_icon_home'>
+                <a a href="index.html"><img id="m_icon" src="content/m_icon.svg"></a>
+            </div>
+            <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+                <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 28" id="path">
+                    <path
+                        d="M32.9418651,-20.6880772 C37.9418651,-20.6880772 40.9418651,-16.6880772 40.9418651,-12.6880772 C40.9418651,-8.68807717 37.9418651,-4.68807717 32.9418651,-4.68807717 C27.9418651,-4.68807717 24.9418651,-8.68807717 24.9418651,-12.6880772 C24.9418651,-16.6880772 27.9418651,-20.6880772 32.9418651,-20.6880772 L32.9418651,-29.870624 C32.9418651,-30.3676803 33.3448089,-30.770624 33.8418651,-30.770624 C34.08056,-30.770624 34.3094785,-30.6758029 34.4782612,-30.5070201 L141.371843,76.386562"
+                        transform="translate(83.156854, 22.171573) rotate(-225.000000) translate(-83.156854, -22.171573)">
+                    </path>
+                </symbol>
+            </svg>
+            <nav>
+                <p><a a id='paleta'><img src="content/paleta.svg"></a></p>
+                <p><a href="index.html" style="text-decoration: underline;">PROJETOS</a></p>
+                <p><a href="about.html">SOBRE</a></p>
+            </nav>
+        </header>
+
+        <section id='scroll'>
+
+            <div id='proj_scroll'></div>
+
+            <footer id='footer'>
+                <p>
+                    <a class="social" href="#">E</a>
+                    <a class="social" href="https://www.instagram.com/lamagacoletivo/" target="_blank">Q</a>
+                </p>
+                <p class="tiny_info">
+                    E-mail: coletivolamaga@gmail.com<br>
+                    Telefone: +351 987 987 987
+                </p>
+                <p id="copyr" class="tiny_info" class='sub'></p>
+            </footer>
+
+
+        </section>
+
+    </main>
+
+
+
+
+
+</body>
+
+<script src="scripts/vh_correct.js"></script>
+<script src="scripts/data.js"></script>
+<script src="scripts/kraftwerks.js"></script>
+<script src="scripts/colors.js"></script>
+<script src="scripts/search.js"></script>
+
+<script>
+    var egg = document.getElementById('easter');
+    var i = data.length;
+    var rk = (Math.floor(Math.random() * i) + 1);
+    console.log(rk);
+    egg.setAttribute('src', 'content/' + (data[rk])['thumbnail']);
+
+    var year = new Date().getFullYear();
+    document.getElementById('copyr').appendChild(document.createTextNode('© LA MAGA ' + year));
+</script>
+
+</html>
