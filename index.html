@@ -115,11 +115,12 @@
     var egg = document.getElementById('easter');
     var i = data.length;
     var rk = (Math.floor(Math.random() * i) + 1);
-    console.log(rk);
     egg.setAttribute('src', 'content/' + (data[rk])['thumbnail']);
 
     var year = new Date().getFullYear();
     document.getElementById('copyr').appendChild(document.createTextNode('© LA MAGA ' + year));
+
+    console.log('Diogo Lourenço™ (OI)\nDesigned and Developed by Diogo Lourenço for Coletivo Lamaga\n\n이 글을 읽으신다면 저를 한국으로 데려가주세요...');
 </script>
 
 </html>
