@@ -114,7 +114,7 @@
 <script>
     var egg = document.getElementById('easter');
     var i = data.length;
-    var rk = (Math.floor(Math.random() * i) + 1);
+    var rk = Math.floor(Math.random() * i);
     egg.setAttribute('src', 'content/' + (data[rk])['thumbnail']);
 
     var year = new Date().getFullYear();
