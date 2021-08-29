@@ -16,7 +16,24 @@ var data = [
         misc: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/T1zQ5b3C1hM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
     }
 
-    //sleciona e cola
+    // ░▒▓█ PASTE ABOVE HERE █▓▒░
+
+
+,{
+title_home: 'teste Diogo',
+title_full: 'Teste DiogoTeste DiogoTeste DiogoTeste DiogoTeste DiogoTeste DiogoTeste DiogoTeste DiogoTeste DiogoTeste Diogo',
+subtitle: 'teste subtitulo',
+author: 'Diogo',
+type: 'Teste',
+date: 'August 29, 2021 00:00:00',
+tag: [],
+thumbnail: 'hashtag',
+text: '<p style="text-align: left;">the quick brown foz jumped over the lazy dog</p>',
+notes: [],
+collab: ['Diogo OI'],
+image: ['egg2.jpg'],
+misc: [],
+}
 ]
 
 
