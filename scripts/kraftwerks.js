@@ -47,10 +47,10 @@ function render() {
             item_date.appendChild(document.createTextNode(formatdate((data[i])['date'])))
 
             var item_tags = document.createElement('p');
-            for (var k = (data[i])['tags'].length; k--;) {
-                item_tags.appendChild(document.createTextNode(((data[i])['tags'])[k]));
+            for (var k = (data[i])['tag'].length; k--;) {
+                item_tags.appendChild(document.createTextNode(((data[i])['tag'])[k]));
             }
-            item_tags.classList.add('tags');
+            item_tags.classList.add('tag');
 
 
             item_a.appendChild(item_title);
@@ -209,12 +209,12 @@ function open_item(evt) {
 
     //---------colabs
 
-    if ((data[i])['collaboration'].length > 0) {
+    if ((data[i])['collab'].length > 0) {
         var colab_list = document.createElement('ul');
         colab_list.appendChild(document.createTextNode('Em colaboração com:'))
-        for (var p = (data[i])['collaboration'].length; p--;) {
+        for (var p = (data[i])['collab'].length; p--;) {
             var colab_list_item = document.createElement('li');
-            colab_list_item.appendChild(document.createTextNode('→ ' + ((data[i])['collaboration'])[p]));
+            colab_list_item.appendChild(document.createTextNode('→ ' + ((data[i])['collab'])[p]));
             colab_list.appendChild(colab_list_item);
         }
         proj_div.appendChild(colab_list);
@@ -232,23 +232,23 @@ function open_item(evt) {
 
     //---------images
 
-    if ((data[i])['images'].length > 1) {
+    if ((data[i])['image'].length > 1) {
         var slide_container = document.createElement('div');
         slide_container.setAttribute('id', 'slider');
         slide_container.classList.add('slideshow-container');
 
-        for (p = 0; p < (data[i])['images'].length; p++) {
+        for (p = 0; p < (data[i])['image'].length; p++) {
 
             var slide = document.createElement('div');
             slide.classList.add('mySlides');
 
             var slide_number = document.createElement('div');
-            slide_number.innerHTML = (p + 1) + '/' + (data[i])['images'].length;
+            slide_number.innerHTML = (p + 1) + '/' + (data[i])['image'].length;
             slide_number.classList.add('numbertext');
             slide.appendChild(slide_number);
 
             var slide_image = document.createElement('img');
-            slide_image.setAttribute('src', 'content/' + ((data[i])['images'])[p]);
+            slide_image.setAttribute('src', 'content/' + ((data[i])['image'])[p]);
             slide_image.setAttribute('alt', '© LA MAGA');
             slide.appendChild(slide_image);
 
@@ -277,9 +277,9 @@ function open_item(evt) {
 
     }
 
-    if ((data[i])['images'].length == 1) {
+    if ((data[i])['image'].length == 1) {
         var single_image = document.createElement('img');
-        single_image.setAttribute('src', 'content/' + ((data[i])['images'])[0]);
+        single_image.setAttribute('src', 'content/' + ((data[i])['image'])[0]);
         single_image.setAttribute('alt', '© LA MAGA');
         single_image.classList.add('single_image');
         proj_div.appendChild(single_image);
