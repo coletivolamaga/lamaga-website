@@ -14,44 +14,39 @@ var data = [
         collaboration: ['oi', 'lenha'],
         images: ["kkk.jpg", 'supreme.png', 'favicon.png'],
         misc: ['<iframe width="560" height="315" src="https://www.youtube.com/embed/T1zQ5b3C1hM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>']
-    }
-
-    // ░▒▓█ PASTE ABOVE HERE █▓▒░
-
-
-,{
+    },
+    {
 title_home: 'teste Diogo',
 title_full: 'Teste DiogoTeste DiogoTeste DiogoTeste DiogoTeste DiogoTeste DiogoTeste DiogoTeste DiogoTeste DiogoTeste Diogo',
 subtitle: 'teste subtitulo',
 author: 'Diogo',
 type: 'Teste',
 date: 'August 29, 2021 00:00:00',
-tag: [],
+tags: [],
 thumbnail: 'hashtag',
 text: '<p style="text-align: left;">the quick brown foz jumped over the lazy dog</p>',
 notes: [],
 collab: ['Diogo OI'],
 image: ['egg2.jpg'],
 misc: [],
-}
-// ░▒▓█ PASTE ABOVE HERE █▓▒░
-
-
-,{
+},
+    {
 title_home: '',
 title_full: 'lamaga text',
 subtitle: '',
 author: 'Chica',
 type: 'Artigo',
 date: 'August 29, 2021 00:00:00',
-tag: [],
+tags: [],
 thumbnail: '',
 text: '<p style="text-align: left;">TEXTO TESTE da CHICA</p>',
 notes: [],
 collab: ['DIOGO'],
 image: ['balthus-La_calle_GRND-1-800x600.jpg'],
 misc: [],
-}]
+}
+
+]
 
 
 //https://codepen.io/barney-parker/pen/idjCG
