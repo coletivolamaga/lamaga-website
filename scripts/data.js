@@ -34,7 +34,24 @@ collab: ['Diogo OI'],
 image: ['egg2.jpg'],
 misc: [],
 }
-]
+// ░▒▓█ PASTE ABOVE HERE █▓▒░
+
+
+,{
+title_home: '',
+title_full: 'lamaga text',
+subtitle: '',
+author: 'Chica',
+type: 'Artigo',
+date: 'August 29, 2021 00:00:00',
+tag: [],
+thumbnail: '',
+text: '<p style="text-align: left;">TEXTO TESTE da CHICA</p>',
+notes: [],
+collab: ['DIOGO'],
+image: ['balthus-La_calle_GRND-1-800x600.jpg'],
+misc: [],
+}]
 
 
 //https://codepen.io/barney-parker/pen/idjCG
