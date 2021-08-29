@@ -31,7 +31,7 @@ image: ['egg2.jpg'],
 misc: [],
 },
     {
-title_home: '',
+title_home: 'oiuoiuoiuo',
 title_full: 'lamaga text',
 subtitle: '',
 author: 'Chica',
