@@ -26,22 +26,23 @@ window.onload = function () {
         var thumbnail = "thumbnail: '" + input7.value + "',\n";
         var text = "text: '" + output.value + "',\n";
 
-        var tags = create_parameter('tag', tags_count);
+        var tags = create_parameter('tags', tags_count);
 
         var notes = create_parameter('notes', note_count);
 
-        var collab = create_parameter('collab', collab_count);
+        var collab = create_parameter('collaboration', collab_count);
 
-        var images = create_parameter('image', image_count);
+        var images = create_parameter('images', image_count);
 
         var misc = create_parameter('misc', misc_count);
 
+        var pastehere = '// ░▒▓█ PASTE BELLOW HERE █▓▒░' + "\n";
 
-        var pastehere = '// ░▒▓█ PASTE ABOVE HERE █▓▒░' + "\n";
 
         this.href = 'data:text/plain;charset=utf-11,' + encodeURIComponent(
-            pastehere + '\n' + '\n' + ",{\n" + title_home + title_full + subtitle + author + type + date + tags + thumbnail + text + notes + collab + images + misc + "}"
+            ",{\n" + title_home + title_full + subtitle + author + type + date + tags + thumbnail + text + notes + collab + images + misc + "}" + '\n' + '\n' + pastehere
         );
+
     };
 };
 
