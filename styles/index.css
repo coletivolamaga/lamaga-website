@@ -437,25 +437,6 @@ main section #about #members .member p {
   }
 }
 
-main section #about #members .member p a {
-  color: black;
-  text-decoration: none;
-  font-size: 14px;
-  -webkit-transition: 0.2s;
-  transition: 0.2s;
-}
-
-@media screen and (max-width: 600px) {
-  main section #about #members .member p a {
-    font-size: 13px;
-  }
-}
-
-main section #about #members .member p a:hover {
-  color: white;
-  text-decoration: none;
-}
-
 main section #about #members .member ul {
   margin: 15px 0;
   list-style: none;
@@ -465,7 +446,27 @@ main section #about #members .member ul {
 
 main section #about #members .member ul li {
   font-weight: normal;
-  padding-left: 0px;
+  padding: 0px;
+  margin: 0;
+}
+
+main section #about #members .member ul li a {
+  color: black;
+  text-decoration: none;
+  font-size: 14px;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
+
+@media screen and (max-width: 600px) {
+  main section #about #members .member ul li a {
+    font-size: 13px;
+  }
+}
+
+main section #about #members .member ul li a:hover {
+  color: white;
+  text-decoration: none;
 }
 
 main section .proj {
