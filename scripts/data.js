@@ -61,8 +61,8 @@ image: ['LucInstant_ok-710x1028.jpg'],
 misc: [],
 }
     ,{
-title_home: 'Atelier-escorrega',
-title_full: 'Atelier-escorrega',
+title_home: 'atelier-escorrega',
+title_full: 'atelier-escorrega',
 subtitle: '',
 author: 'Francisca Portugal',
 type: 'Studio Visit',
