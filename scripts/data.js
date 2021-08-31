@@ -46,8 +46,8 @@ image: ['balthus-La_calle_GRND-1-800x600.jpg'],
 misc: [],
 }
 ,{
-title_home: 'crónica para um',
-title_full: 'crónica para um',
+title_home: 'Crónica para um',
+title_full: 'Crónica para um',
 subtitle: '',
 author: 'Francisca Portugal',
 type: 'Crónica',
@@ -61,8 +61,8 @@ image: ['LucInstant_ok-710x1028.jpg'],
 misc: [],
 }
     ,{
-title_home: 'atelier-escorrega',
-title_full: 'atelier-escorrega',
+title_home: 'Atelier-escorrega',
+title_full: 'Atelier-escorrega',
 subtitle: '',
 author: 'Francisca Portugal',
 type: 'Studio Visit',
