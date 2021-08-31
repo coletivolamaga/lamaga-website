@@ -50,7 +50,7 @@ function render() {
             for (var k = (data[i])['tag'].length; k--;) {
                 item_tags.appendChild(document.createTextNode(((data[i])['tag'])[k]));
             }
-            item_tags.classList.add('tag');
+            item_tags.classList.add('tags');
 
 
             item_a.appendChild(item_title);
