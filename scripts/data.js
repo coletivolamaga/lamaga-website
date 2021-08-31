@@ -45,7 +45,6 @@ collab: ['DIOGO'],
 image: ['balthus-La_calle_GRND-1-800x600.jpg'],
 misc: [],
 }
-
 ,{
 title_home: 'crónica para um',
 title_full: 'crónica para um',
