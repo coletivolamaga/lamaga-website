@@ -108,6 +108,22 @@ image: ['leopardo.jpg'],
 misc: [],
 }
 
+    ,{
+title_home: 'Exposição permanente da National Gallery e outros horizontes',
+title_full: 'National Gallery',
+subtitle: 'Frente de Sala - rúbrica quinzenal que sintetiza longas horas de espectador',
+author: 'Afonso Matos',
+type: 'Coluna',
+date: 'September 14, 2021 00:00:00',
+tag: [],
+thumbnail: 'holbein.jpg',
+text: '<p style="text-align: left;">o roliço Buck Mulligan&nbsp;</p><p style="text-align: left;">morava numa torre circular&nbsp;</p><p style="text-align: left;">onde surge em robe&nbsp;</p><p style="text-align: left;">com uma travessa de espuma</p><p style="text-align: left;">&nbsp;Hans Holbein escondendo&nbsp;</p><p style="text-align: left;">nos detalhes da pintura&nbsp;</p><p style="text-align: left;">uma caveira, um globo&nbsp;</p><p style="text-align: left;">uma corda partida&nbsp;</p><p style="text-align: left;">o infante Knopfli&nbsp;</p><p style="text-align: left;">numa praia a sul&nbsp;</p><p style="text-align: left;">dentro de poemas&nbsp;</p><p style="text-align: left;">ou edificando Caliban&nbsp;</p><p style="text-align: left;">Ali Duaji passeava pelas ruas de Istambul&nbsp;</p><p style="text-align: left;">os seus pés entre os demais&nbsp;</p><p style="text-align: left;">cidadãos dos anos 30&nbsp;</p><p style="text-align: left;">foi preciso Inventarem-se para que&nbsp;</p><p style="text-align: left;">o olhar se tornasse mais nítido&nbsp;</p><p style="text-align: left;">e entre símbolos aparecesse um vislumbre de eternidade o quadro&nbsp;</p><p style="text-align: left;">The Ambassadors&nbsp;</p><p style="text-align: left;">esconde pormenores interessantes considerava o estrangeiro no curto&nbsp;</p><p style="text-align: left;">percurso da National Gallery&nbsp;</p><p style="text-align: left;">a Trafalgar Square sentou-se&nbsp;</p><p style="text-align: left;">sobre a estátua do leão em confronto com a morte própria 20 metros abaixo do s</p><p style="text-align: left;">emblante granítico de Lord Nelson fez testamento aos vindouros uma ficção sem par sobre o tempo de uma África vibrante cujas&nbsp;</p><p style="text-align: left;">cores branco, azul claro,&nbsp;</p><p style="text-align: left;">amarelo tórrido eram bem&nbsp;</p><p style="text-align: left;">diferentes das desse outono esbatido em granola e cafés-plástico notas escassas,&nbsp;</p><p style="text-align: left;">aquecedores insensatez&nbsp;</p><p style="text-align: left;">breve de estrangeiro gelando na praça central</p>',
+notes: [],
+collab: [],
+image: ['holbein.jpg'],
+misc: [],
+}
+
 // ░▒▓█ PASTE BELLOW HERE █▓▒░
 
 
