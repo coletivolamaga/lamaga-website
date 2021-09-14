@@ -109,8 +109,8 @@ misc: [],
 }
 
     ,{
-title_home: 'Exposição permanente da National Gallery e outros horizontes',
-title_full: 'National Gallery',
+title_home: 'National Gallery',
+title_full: 'Exposição permanente da National Gallery e outros horizontes',
 subtitle: 'Frente de Sala - rúbrica quinzenal que sintetiza longas horas de espectador',
 author: 'Afonso Matos',
 type: 'Coluna',
