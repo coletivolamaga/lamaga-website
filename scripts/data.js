@@ -124,7 +124,24 @@ image: ['holbein.jpg'],
 misc: [],
 }
 
+,{
+title_home: 'ciclos de vida',
+title_full: 'ciclos de vida',
+subtitle: '',
+author: 'Mariana Anacleto',
+type: 'diário',
+date: 'September 14, 2021 00:00:00',
+tag: ['sustentabilidade', 'fashion'],
+thumbnail: 'mariana_4.jpg',
+text: '<p style="text-align: left;">Quase metade da minha roupa é da minha família, da qual 18% é da minha avó Palmira, 11% da minha mãe, 5% da minha avó Lena, 5% de amigos e 3% do meu pai. Em Junho de 2020, fui à procura de fotografias das peças de roupa que eles me passaram a mim e aos meus irmãos. Queria vê-las lado a lado, uma manifestação do valor e do cuidado à roupa que corre na minha família. Percorri umas centenas de albums em várias casas, analógicos e digitais, à procura destas coincidências - peças que resistiram à prova do tempo. Este é o album dessas peças.</p><p style="text-align: left;">&nbsp;Lado a lado, o passar do tempo entre estas fotografias sente-se de uma forma quase tangível. A referência de tempo aqui são corpos - corpos a crescer, a envelhecer, corpos em mudança. Um sobrolho mais preenchido, uma ruga desenhada e um par de bochechas em falta tornam-se marcos de tempo. A roupa, no entanto, mantém-se constante - uma constante que realça a distância entre as fotografias.&nbsp;</p><p style="text-align: left;">O têxtil é o derradeiro portador de memória, memória tal que se materializa de várias maneiras... Primeiro, como meio de auto-expressão, nós entrelançamos as nossas roupas com identidade - a qual está continuamente em formação - e assim apanham um pedaço de nós a dado momento nas nossas vidas. Segundo, a roupa tem um período de vida de mais ou menos 2 a 3 gerações, contando com uso intermitente. Este período coincide com o vão da nossa memória - sabemos bem dos nossos pais e avós, mas menos antes deles.&nbsp;</p><p style="text-align: left;">Na gola de um casaco da minha avó encontro uma etiqueta com letras engarrafadas a dizer: 100% LÃ, FABRICADO EM PORTUGAL*. Sem logotipo e sem instruções de cuidado. Este o caso na maioria das peças que tenho dela. Há uma clara presença do gosto da minha avó - um olho para qualidade tanto no material como na confeção, sendo ela costureira também - mas existe nelas uma identidade visual maior. Quando vistas como um todo, há uma quietude na sua estética - uma simplicidade no corte e uma discrição no uso de cor - típico deste modesto país Mediterrâneo.&nbsp;</p><p style="text-align: left;">Além do mais, há um sentido de destino nesta estória que eu atribuo à genética. Ter exactamente o mesmo tipo de corpo em forma de “pêra” e a mesma altura que a minha mãe, não admira que a sua roupa me sirva como uma luva. E ter o mesmo tom de pele que a minha avó explica a palete de cor que vejo recorrer nas peças que tenho dela.&nbsp;</p><p style="text-align: left;">Há um grande prazer em saber que estas peças são antigas. Provoca um sentido de pequenez, olhar para algo que nasceu antes do nosso tempo e permanecerá depois de nós. Os têxteis são coisas vivas - eles crescem no solo ou em animais, respondem aos nossos movimentos, moldam-se aos nossos contornos, guardam a nossa temperatura e reagem ao uso. E como a própria vida, decompõem-se quando regressam ao solo. Fala-se do ‘ciclo de vida’ de um produto desde a sua produção à sua reciclagem, onde começa um novo ciclo. Crescer até algo servir e deixar de servir é também cumprir um ciclo, e que linda é a absorção simbólica de memória que ocorre em cada um. Usar a roupa da minha família fez-me ver estes ciclos com um novo olhar - eles estendem-se para além dos nossos. Pensando nas roupas da minhas avó em particular, roupas que uso quase todos os dias, pergunto-me como se farão sentir quando os seus ciclos ultrapassarem o dela. O que sei agora é que a nossa afeição a têxteis e roupa é sempre um ponto de união. E é um prazer partilhá-la com ela.</p>',
+notes: [],
+collab: [],
+image: ['mariana_0.jpg', 'mariana_1.jpg', 'mariana_2.jpg', 'mariana_4.jpg', 'mariana_5.jpg', 'mariana_6.jpg', 'mariana_7.jpg', 'mariana_8.jpg'],
+misc: [],
+}
+
 // ░▒▓█ PASTE BELLOW HERE █▓▒░
+
 
 
 
