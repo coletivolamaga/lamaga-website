@@ -51,7 +51,25 @@ image: ['brutally_early_Hans_Ulrich.jpg'],
 misc: [],
 }
 
+,{
+title_home: 'Do espírito comunitário que falece a arte portuguesa',
+title_full: 'Do espírito comunitário que falece a arte portuguesa',
+subtitle: '',
+author: 'Arlindo Camelo',
+type: 'crítica',
+date: 'November 15, 2021 00:00:00',
+tag: [],
+thumbnail: 'holanda.jpg',
+text: '<p style="text-align: left;">Longe vão os tempos da exposição do Mundo Português e da política cultural levada a cabo pelo modernista António Ferro. Mas se hoje é fácil sublinhar o lado racista e mistificador da cultura nacional promovida pelo Estado Novo, o que dizer da ausência de uma política e financiamento para a cultura nas últimas décadas?&nbsp;</p><p style="text-align: left;">Temos vivido num país incapaz de produzir um discurso sobre si próprio, que se limita a perpetuar a sua imagem inventada de potência multicultural dos descobrimentos, ou a importar algumas das tendências da arte global.</p><p style="text-align: left;">É certo que o poder político, longe de se interessar por este problema, não tem apresentado qualquer estratégia para o setor. Ainda que pudesse ser alvo de críticas, a simples existência de um plano de ação e de linhas de financiamento acessíveis produziria o efeito desejado de pôr em discussão uma ideia de cultura nacional.</p><p style="text-align: left;">Um segundo problema reside, no meu entender, na fragmentação em nichos do pequeno meio artístico português. Não nego que a diversidade é importante, mas fechar em si próprias áreas como o cinema, artes visuais, música, teatro ou literatura contribui para uma disfuncionalidade semelhante à de um corpo desmembrado cujas partes raramente se juntam para que ele se possa locomover em direção ao futuro. Invertendo o famoso chavão dir-se-ia que a desunião não faz a força.</p><p style="text-align: left;">Existirem rivalidades de bairro a bairro, barreiras ao diálogo e diferentes públicos de amigos que jamais se cruzam contribuirá para a insustentabilidade deste ecossistema. Mesmo que possam estar ativos muitos artistas, a produzir trabalhos de qualidade, com diferentes abordagens e preocupações sociais, a divisão que grassa só levará a um esgotamento de todos estes esforços pessoais para suceder, e da ambição dos seus protagonistas. O apelo que deixo, a partir da perspetiva exterior e descomprometida de crítico, é o de união em volta de iniciativas comuns, devidamente financiadas, abrangentes e atentas à realidade social.</p><p style="text-align: left;">A crítica ao sistema artístico deve vir de dentro, novas soluções devem ser procuradas e, claro, a exigência de condições para perseguir um horizonte de investimento no panorama nacional e na sua internacionalização, deve acontecer junto do poder político ou em ruptura com aquilo que ele diz ter para oferecer.</p><p style="text-align: left;">A fragmentação do mundo da arte em Portugal só acentua a sua microescala e&nbsp; uma incapacidade de união, de apresentar uma visão própria e articulada a nível interno e externo e, no fundo, de ter impacto junto do público, reticente a mergulhar no caos das suas propostas. Assim, uma perspectiva conjunta deve ser procurada com propostas que abdiquem da habitual lógica de propaganda e exclusão dos apoios anunciados.</p><p style="text-align: left;">O empenho descomprometido em repetir os mesmos modelos de apoio, convertido num esforço conjunto de criação de uma plataforma ativa, funcional e representativa do espectro cultural português só contribuiria para que pudéssemos ver-nos ao espelho, projectados numa nova identidade, elaborando respostas a problemas locais e, simultaneamente, às grandes questões globais.</p><p style="text-align: left;">Em vez de museus e programas nacionais, estamos dotados de marcas e grandes empresas que promovem a arte contemporânea como meio para o autoelogio. As instituições cuja função é programar, as estatais ou as independentes, assemelham-se muitas vezes a famílias pró-consanguinidade, por isso limitadas na sua ação.</p><p style="text-align: left;">Está por vir o dia em que os agentes das várias disciplinas artísticas se consigam unir em iniciativas comunitárias e exista verdadeiramente um plano de ação e financiamento para a cultura, construído a partir do trabalho dos artistas e não de interesses alheios.</p>
+',
+notes: ['O título deste artigo inspira-se num dos escritos de Francisco de Holanda ("Da fábrica que falece à cidade de Lisboa").'],
+collab: [],
+image: ['holanda.jpg'],
+misc: [],
+}
+
 // ░▒▓█ PASTE BELLOW HERE █▓▒░
+
 
 
 
