@@ -35,23 +35,6 @@ misc: [],
 }
 
 ,{
-title_home: 'Assistente Noturno',
-title_full: 'Assistente Noturno',
-subtitle: 'gostos não se discutem',
-author: 'Francisca Portugal',
-type: 'coluna',
-date: 'October 24, 2021 00:00:00',
-tag: [],
-thumbnail: 'brutally_early_Hans_Ulrich.jpg',
-text: '<p style="text-align: left;">“Para o mercado internacional, Londres é top! Cai exatamente no meio da time-zone dos Estados Unidos e da China”, disse-me uma vez um negociante de diamantes, precisamente no epicentro do capitalismo mercantil. O episódio fez-me lembrar a posição fascinante de que a estrela-curador Hans Ulrich Obrist dispõe na sua alargada equipa de assistentes, o night assistant. Porque, melhor que o centro do mundo é a volta completa. O NA do senhor Obrist tem como cargo, a continuação do trabalho do boss enquanto ele dorme. No início do dia, é enviado um relatório dos contactos, actualizações de agenda, avanços em projectos e algum gossip fresquinho. Este encantador morcego, trata de continuar os avanços de ambos os fusos horários, estando a par do cair da noite em Nova Iorque e do nascer do dia em Hong Kong. Imagino também que, conhecendo a ficção que rodeia a persona HUO, surjam de vez em quando pedidos personalizados, telefonemas sobre a next big thing ou ir à lavandaria levantar as suas camisas para a Bienal de Veneza.&nbsp;</p><p style="text-align: left;">Este mister worldwide está mole, habituou-se ao institucional e ao café trazido de bandeja. Não há dúvida que o fenómeno do curador celebridade é extremamente aliciante e curioso, como é a Kim Kardashian para alguns. Contudo, e seguindo também HUO na sua extensíssima obra escrita, a história do assistente noturno é sem dúvida (sem deixar de ser impressionante) extravagante, em comparação com as que conta nas suas crónicas! Bem sei, que quando criou, com mais uns amigos, o brutally early club não era diretor da Serpentine, tudo bem, masss… O brutally early club, surgiu de forma a reunir um grupo informal numa altura do dia em que ninguém tinha compromissos, sendo que a hora que toda a gente encontrou livre foi as 3 da manhã. Juntavam-se em cafés 24h, em parques de estacionamento e hotéis perto de Heathrow para ver filmes.&nbsp;</p><p style="text-align: left;">1. Também quero, esquecendo problemas de logística, sono e défice de instituições;&nbsp;</p><p style="text-align: left;">1.1. Alguém que alinhe, envie-me um email!&nbsp;</p><p style="text-align: left;">2. Como curador hiper poderoso, porque não continuar este plano mas em versão fancy e com os assistentes noturnos?;&nbsp;</p><p style="text-align: left;">***&nbsp;</p><p style="text-align: left;">Algumas semanas de escrever este texto, apercebo-me da condicionalidades que todo este programa implicaria e questiono sobre se estes super encontros realmente aconteceram mais que um par de vezes. E, já agora, pensando de um ponto de vista de apropriação pessoal: quantas pessoas sóbrias apareceriam? Outro aspecto importante: a comunicação por telemóvel, de certo modo, corta o entusiasmo e a espontaneidade de uma combinação para “”quem apenas quer aparecer/ amigos de amigos.&nbsp;</p><p style="text-align: left;">Aqui fica o relato verdadeiro:</p>
-',
-notes: [],
-collab: [],
-image: ['brutally_early_Hans_Ulrich.jpg'],
-misc: [],
-}
-
-,{
 title_home: 'Do espírito comunitário que falece a arte portuguesa',
 title_full: 'Do espírito comunitário que falece a arte portuguesa',
 subtitle: '',
