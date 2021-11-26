@@ -52,8 +52,8 @@ misc: [],
 }
 
 ,{
-title_home: 'LONDRES - FRENTE DE SALA',
-title_full: 'LONDRES - FRENTE DE SALA',
+title_home: 'Londres - Frente de sala',
+title_full: 'Londres - Frente de sala',
 subtitle: 'literatura de viagem / crítica',
 author: 'Afonso Fragoso Matos',
 type: 'literatura de viagem / crítica',
