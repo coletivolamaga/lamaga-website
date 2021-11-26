@@ -185,14 +185,24 @@ collab: [],
 image: ['gato.jpg'],
 misc: [],
 }
+,{
+title_home: 'Galeria de Personagens',
+title_full: 'Galeria de Personagens',
+subtitle: 'Amigos, conhecidos e amantes',
+author: 'La Maga',
+type: 'galeria de personagens',
+date: 'November 26, 2021 00:00:00',
+tag: [],
+thumbnail: '1_ferrnando.jpeg',
+text: '<p style="text-align: left;">1. Fernando II, também conhecido por Zé Nabo, um estrangeiro em Sintra que me guiou pelos seus jardins.</p><p style="text-align: left;">2. Falso Dom Sebastião, impostor talentoso com quem tive o prazer de privar em Veneza.&nbsp;</p><p style="text-align: left;">3. Hildegarda von Bigen, encontrei a sua obra completa e apaixonei-me por ela no mercado das pulgas, em Bruxelas.</p><p style="text-align: left;">4. Idrissi, por mais que insistisse com os impressores teimavam em orientar o sul ao alto do seu mapa.&nbsp;</p><p style="text-align: left;">5. Sarah e Sophia Briggs, desaparecidas no navio Mary Celeste. Segui o caso em Gibraltar.</p><p style="text-align: left;">6. Maria da Fonte, com a pistola na mão, predecessora do maio de 68.</p><p style="text-align: left;">7. Esta sou eu, com o escritor argentino Julio Cortázar na Paris da nossa quase juventude.</p><p style="text-align: left;">8. Mulay Ismail, conheci alguns dos seus netos, bem como os dissidentes da sua dinastia em Mèknes, Marrocos.</p><p style="text-align: left;">9. Miguel de Cervantes Saavedra, legou à minha família a bela folia de um cavaleiro.</p><p style="text-align: left;">10. Manuel de Sousa Coutinho, humanista que andava preso em Argel com Cervantes. A certa altura decidiu chamar-se Frei Luís de Sousa e reapareceu pelos teatros.</p><p style="text-align: left;">11. Uma amiga que fiz na Abissínia, será que recordarei, um dia, o seu nome?</p><p style="text-align: left;">12. Crítica de arte conceituada que me interpelou e me levaria a um serão de festa na Vila Borghese, em Roma.</p><p style="text-align: left;">13. Certa banda que pude escutar ao vivo em Lisboa, chamavam-se Paradoxo.</p><p style="text-align: left;">14. Georgia O'Keeffe, a única amiga americana com quem partilhei os meus sonhos.</p>
+',
+notes: [],
+collab: [],
+image: ['1_ferrnando.jpeg', '2_marco_tulio.jpeg', '3_hildegarda.jpeg', '4_Idrissi.jpeg', '5_briggs.jpeg', '6_maria_da_fonte.jpeg', '7_la_maga_cortazar.jpg', '8_Mulay_Ismail.jpg', '9_Miguel_de_Cervantes.jpg', '10_Manuel.jpeg', '11_abissinia.jpeg', '12_francis.jpeg', '13_paradoxo.jpeg', '14_okeeffe.jpg'],
+misc: [],
+}
 
 // ░▒▓█ PASTE BELLOW HERE █▓▒░
-
-
-
-
-
-
 
 
 ]
