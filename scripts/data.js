@@ -127,11 +127,11 @@ author: 'Fernando Vária',
 type: 'crónica',
 date: 'November 25, 2021 00:00:00',
 tag: [],
-thumbnail: 'teatro.jp',
+thumbnail: 'teatro.jpg',
 text: '<p style="text-align: left;">Fernando Vária, finais 2019&nbsp;</p><p style="text-align: left;">O Teatro do Absurdo Social em Portugal&nbsp;</p><p style="text-align: left;">ou&nbsp;</p><p style="text-align: left;">TeatroSocial&nbsp;</p><p style="text-align: left;">(Viagens de comboio)&nbsp;</p><p style="text-align: left;"><br></p><p style="text-align: left;">A carruagem de trás para a frente&nbsp;</p><p style="text-align: left;">Com os phones nos cornos&nbsp;</p><p style="text-align: left;">E as trombas de um leão&nbsp;</p><p style="text-align: left;">um rugir de borboleta&nbsp;</p><p style="text-align: left;">dentro de uma ampulheta.&nbsp;</p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;A Telma e a Luísa sentem todos os tremeliques no pipi, pensam saber tudo sobre tudo como os machos viris que são muito braço, pouco maço, muito cigarro disfarçam o embaraço:&nbsp;</p><p style="text-align: left;">- O meu cabelo é o meu chapéu, debaixo de um véu de carne tenra desço à rua da inocência, e com toda a put* da paciência vou à rua apanhar ar.&nbsp;</p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;O boneco andante sei lá de quem não quer ter pai nem mãe, sai à rua sem ninguém com medo não sei de quem. O cérebro cerebelo está tão elástico que dói, chegado a um destino é uma espécie de herói. – Olha, vai dormir… pequeno sabichão armado até os dentes, basta-te um tostão?&nbsp;</p><p style="text-align: left;">Quanto tempo há para entender uma maré, remar a costa a pé, ou fingir que sou o Zé?</p>',
 notes: [],
 collab: [],
-image: ['teatro.jp'],
+image: ['teatro.jpg'],
 misc: [],
 }
 
