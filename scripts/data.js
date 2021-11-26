@@ -86,7 +86,7 @@ misc: [],
 }
 
 ,{
-title_home: '',
+title_home: 'Marrocos - Cartas marroquinas/ Um diário de viagem',
 title_full: 'Marrocos - Cartas marroquinas/ Um diário de viagem',
 subtitle: 'literatura de viagem',
 author: 'Afonso Fragoso Matos',
@@ -103,7 +103,7 @@ misc: ['https://franciscaportugal.substack.com/p/a-uma-hora-e-meia-daqui'],
 }
 
 ,{
-title_home: '',
+title_home: 'Toledo - Caderno de viagem',
 title_full: 'Toledo - Caderno de viagem',
 subtitle: 'literatura de viagem',
 author: 'Afonso Fragoso Matos',
@@ -120,7 +120,7 @@ misc: [],
 }
 
 ,{
-title_home: '',
+title_home: 'Lisboa - O caderno de Arlindo Camelo/ Comboio suburbano',
 title_full: 'Lisboa - O caderno de Arlindo Camelo/ Comboio suburbano',
 subtitle: 'literatura de viagem/ poesia',
 author: 'Afonso Fragoso Matos',
@@ -187,7 +187,7 @@ misc: [],
 }
 
 ,{
-title_home: 'f',
+title_home: 'Planos para um livro',
 title_full: 'Planos para um livro',
 subtitle: 'correspondência',
 author: 'f',
