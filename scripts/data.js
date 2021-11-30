@@ -225,6 +225,23 @@ image: ['desenho1j.jpg', 'desenho2j.jpg', 'desenho3j.jpg', 'desenho4j.jpg', 'des
 misc: [],
 }
 
+,{
+title_home: 'Emotional city',
+title_full: 'Emotional city',
+subtitle: 'ensaio visual',
+author: 'Catarina Monteiro',
+type: 'ensaio visual',
+date: 'November 30, 2021 00:00:00',
+tag: [],
+thumbnail: 'video1.png',
+text: '<p style="text-align: left;"><br></p><p style="text-align: left;"><span style="font-family: Roboto, sans-serif; font-size: medium;">”</span><span style="font-family: Roboto, sans-serif; font-size: medium;">lugar”</span>&nbsp;é: determinado espaço no qual o indivíduo desenvolve para com ele uma relação de identidade, afectividade; bem-estar.</p><p style="text-align: left;"><br></p><p style="text-align: left;">Caminhar é carecer de um lugar. É o processo indefinido de estar ausente e em busca de um lugar próprio. O movimento sobre que a cidade se multiplica e concentra faz da cidade em si uma imensa experiência social de falta de um lugar&nbsp; - uma experiência que é, sem dúvida, dividida em inúmeras pequenas deportações (deslocações e passeios), compensada pelas relações e intersecções desses êxodos que se entrelaçam e criam um tecido urbano, e colocada sob o signo do que deveria ser, em última análise, o lugar mas que é apenas um nome, a Cidade... um universo de espaços alugados assombrado por um lugar isolado ou sonhado.&nbsp;</p><p style="text-align: left;">Michel de Certeau, em The Practice of Everyday Life&nbsp;</p><p style="text-align: left;"><br></p><p style="text-align: left;">A quase 3,000Km de casa, uma cidade por descobrir começa a confundir-se com a memória de uma outra cidade já vivida. Os sítios que frequentamos acabam na mesma fronteira, e os lugares onde procuramos conforto ocupam o mesmo espaço. É no meio desta procura por um lugar de conforto numa cidade por descobrir que existe a revelação de uma nova cidade - uma cidade imaginária, que nasce da vontade de existir em dois sítios ao mesmo tempo. Confrontada com a impossibilidade de transitar de uma rua lisboeta a uma casa alemã, as viagens virtuais começaram a regular a experiência de uma cidade cerrada, fria e distante, numa procura incessante de encontrar o&nbsp;<span style="font-family: Roboto, sans-serif; font-size: medium;">”</span>lugar<span style="font-family: Roboto, sans-serif; font-size: medium;">”</span>.</p><p style="text-align: left;"><br></p>
+',
+notes: [],
+collab: [],
+image: ['desenho1.png', 'desenho2.png', 'processo1.JPG', 'processo2.JPG', 'tecido1.jpg', 'tecido2.jpg', 'tecido3.jpg', 'video1.png'],
+misc: [],
+}
+
 // ░▒▓█ PASTE BELLOW HERE █▓▒░
     
     
