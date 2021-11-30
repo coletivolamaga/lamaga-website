@@ -53,9 +53,9 @@ var data = [
     ,{
     title_home: 'Londres - Frente de sala',
     title_full: 'Londres - Frente de sala',
-    subtitle: 'literatura de viagem / crítica',
+    subtitle: 'literatura de viagem/ crítica',
     author: 'Afonso Fragoso Matos',
-    type: 'literatura de viagem / crítica',
+    type: 'literatura de viagem/ crítica',
     date: 'November 20, 2021 00:00:00',
     tag: [],
     thumbnail: 'holbein.jpg',
