@@ -224,7 +224,23 @@ var data = [
     misc: [],
     }
     
-    // ░▒▓█ PASTE BELLOW HERE █▓▒░
+   ,{
+title_home: 'Estudos',
+title_full: 'Estudos',
+subtitle: 'desenho/ pintura',
+author: 'Raquel Espadinha',
+type: 'desenho/ pintura',
+date: 'November 30, 2021 00:00:00',
+tag: [],
+thumbnail: 'desenho1j.jpg',
+text: '',
+notes: [],
+collab: [],
+image: ['desenho1j.jpg', 'desenho2j.jpg', 'desenho3j.jpg', 'desenho4j.jpg', 'desenho5j.jpg', 'desenho6j.jpg', 'desenho7j.jpg', 'desenho8j.jpg', 'desenho9j.jpg', 'desenho10j.jpg', 'desenho11j.jpg', 'desenho12j.jpg', 'desenho13j.jpg', 'desenho14j.jpg', 'desenho15j.jpg', 'desenho16j.jpg', 'desenho17j.jpg', 'desenho18j.jpg', 'desenho19j.jpg', 'desenho20j.jpg', 'desenho21j.jpg', 'desenho22j.jpg', 'desenho23j.jpg', 'desenho24j.jpg', 'desenho25j.jpg', 'desenho26j.jpg'],
+misc: [],
+}
+
+// ░▒▓█ PASTE BELLOW HERE █▓▒░
     
     
     
