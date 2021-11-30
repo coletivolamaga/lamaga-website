@@ -181,7 +181,7 @@ var data = [
     title_home: 'Galeria de Personagens',
     title_full: 'Galeria de Personagens',
     subtitle: 'Amigos, conhecidos e amantes',
-    author: 'La Maga',
+    author: 'LA MAGA',
     type: 'galeria de personagens',
     date: 'November 26, 2021 00:00:00',
     tag: [],
