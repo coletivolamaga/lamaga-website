@@ -142,7 +142,7 @@ var data = [
     text: '<p style="text-align: left;">F.Vária&nbsp;</p><p style="text-align: left;">um avulso&nbsp;&nbsp;</p><p style="text-align: left;"><br></p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Contos poemas de uma estada num hospital (psique num átrio?). Uma estrada que leva a zero, pois popós são os melhores carros e mesmo nunca me tendo faltado nada, de meus pais tenho um tempão de aprendizagem- viva a alegria e viva abril 25, já passado contado à mocidade.&nbsp;</p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;É só mais um poema se alma pequena não roça o número de quantidade certa pois escrever aos bagulhões de milhares de milhões não custa nada a prsioneiros numas jaulas viradas para fora; saber esperar é uma virtude, vem a boa hora essa idosa lenga lenga muito antiga (tão velha) e a minha verdadeira falta está na falta de______.Lacan, meu vazio não o preencho com anedotas pingadas ou vinho verde entalado, eu é como se não existisse à hora do poema e as palavras são apeas linhas. Não ter ego é mais radical do que o sei lá.&nbsp;</p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;/Erguerei uma capela numas eiras quaisqueres para que todo bicho lá possa entrar. Planta base : capela Scrovegni, Pádua</p>',
     notes: [],
     collab: [],
-    image: ['padua2.jpeg'],
+    image: ['padua2.JPG'],
     misc: [],
     }
     
