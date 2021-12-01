@@ -178,9 +178,9 @@ var data = [
     misc: [],
     }
     ,{
-    title_home: 'Galeria de Personagens',
-    title_full: 'Galeria de Personagens',
-    subtitle: 'Amigos, conhecidos e amantes',
+    title_home: 'Amigos, conhecidos e amantes',
+    title_full: 'Amigos, conhecidos e amantes',
+    subtitle: 'galeria de personagens',
     author: 'LA MAGA',
     type: 'galeria de personagens',
     date: 'November 26, 2021 00:00:00',
@@ -243,11 +243,11 @@ misc: [],
 }
 
 ,{
-title_home: 'Stolen files',
-title_full: 'Stolen files',
-subtitle: 'coleção',
+title_home: 'Uma frase roubada ao Wallace',
+title_full: 'Uma frase roubada ao Wallace',
+subtitle: 'galeria de personagens',
 author: 'Hugo Cubo',
-type: 'coleção',
+type: 'galeria de personagens',
 date: 'December 01, 2021 00:00:00',
 tag: [],
 thumbnail: 'h1.jpeg',
