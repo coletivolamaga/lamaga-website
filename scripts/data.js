@@ -242,7 +242,24 @@ image: ['desenho1.png', 'desenho2.png', 'processo1.JPG', 'processo2.JPG', 'tecid
 misc: [],
 }
 
+,{
+title_home: 'Stolen files',
+title_full: 'Stolen files',
+subtitle: 'coleção',
+author: 'Hugo Cubo',
+type: 'coleção',
+date: 'December 01, 2021 00:00:00',
+tag: [],
+thumbnail: 'h1.jpeg',
+text: '',
+notes: [],
+collab: [],
+image: ['h1.jpeg', 'h2.jpeg', 'h3.jpeg', 'h4.jpeg', 'h5.jpeg', 'h6.jpeg', 'h7.jpeg', 'h8.jpeg'],
+misc: [],
+}
+
 // ░▒▓█ PASTE BELLOW HERE █▓▒░
+
     
     
     
